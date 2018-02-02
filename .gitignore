@@ -1,0 +1,9 @@
+/node_modules
+
+/public/scripts/app.js
+
+/public/dist
+
+yarn-error.log
+.env.test
+.env.development

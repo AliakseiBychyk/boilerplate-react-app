@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1517577358765" clover="3.2.0">
+  <project timestamp="1517577358765" name="All files">
+    <metrics statements="31" coveredstatements="24" conditionals="4" coveredconditionals="2" methods="16" coveredmethods="8" elements="51" coveredelements="34" complexity="0" loc="31" ncloc="31" packages="5" files="9" classes="9">
+      <package name="actions">
+        <metrics statements="8" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
+        <file name="auth.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\actions\auth.js">
+          <metrics statements="8" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
+          <line num="3" count="3" type="stmt"/>
+          <line num="8" count="3" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="14" count="3" type="stmt"/>
+          <line num="18" count="3" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components">
+        <metrics statements="13" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="5"/>
+        <file name="DashboardPage.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\components\DashboardPage.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+        </file>
+        <file name="Header.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\components\Header.js">
+          <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="7" count="2" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+        </file>
+        <file name="LoadingPage.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\components\LoadingPage.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+        </file>
+        <file name="LoginPage.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\components\LoginPage.js">
+          <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+          <line num="7" count="2" type="stmt"/>
+          <line num="20" count="1" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+        </file>
+        <file name="NotFoundPage.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\components\NotFoundPage.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="firebase">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="firebase.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\firebase\firebase.js">
+          <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="4" count="3" type="stmt"/>
+          <line num="13" count="3" type="stmt"/>
+          <line num="15" count="3" type="stmt"/>
+          <line num="16" count="3" type="stmt"/>
+        </file>
+      </package>
+      <package name="reducers">
+        <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <file name="auth.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\reducers\auth.js">
+          <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+          <line num="2" count="2" type="cond" truecount="2" falsecount="1"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="tests">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="setupTests.js" path="D:\Learning\Udemy_The_Complete_React_Web_Development_course\boilerplate-v2\src\tests\setupTests.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="5" count="7" type="stmt"/>
+          <line num="9" count="7" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
