@@ -1,2 +1,1 @@
-# React-expensify-app training project 
-
+# React with Redux training project
